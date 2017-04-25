@@ -1,5 +1,5 @@
 $(document).ready(function() {
     var timer = setTimeout(function() {
-        window.location='index.html'
+        window.location='loaded.html'
         }, 3000);
 })
